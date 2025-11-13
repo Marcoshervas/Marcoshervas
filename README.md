@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[PON_AQUI_EL_LINK_DE_TU_IMAGEN_VERDE](https://github.com/Marcoshervas/Marcoshervas/blob/main/Banner_Github.png).png" width="100%" />
+  <img src="https://github.com/Marcoshervas/Marcoshervas/blob/main/Banner_Github.png.png" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Marcos Hervás</h1>

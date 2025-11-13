@@ -9,7 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=marcoshervas&label=Profile%20views&color=0e75b6&style=flat" alt="marcoshervas" />
 </p>
 
-- 🔭 I’m currently working on **Java & Kotlin based applications**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25F71E&center=true&vCenter=true&width=435&lines=Backend+Developer+%26+3D+Enthusiast;Java+%26+Kotlin+Lover;Building+scalable+apps;Always+learning+new+tech" alt="Typing SVG" />
+  </a>
+</div>
 - 🌱 I’m currently learning **Jetpack Compose from Android Developers**
 - ⚡ Fun fact: **I switched from modeling 3D meshes to modeling Data Structures (and I love both!)**
 
@@ -43,6 +47,11 @@
 </p>
 
 <br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <p><i>Thanks for visiting! Let's code something awesome together.</i></p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcoshervas&show_icons=true&locale=en&theme=radical" alt="Estadísticas Marcos" height="170"/>

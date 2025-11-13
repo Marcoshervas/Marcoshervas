@@ -11,12 +11,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25F71E&center=true&vCenter=true&width=435&lines=Backend+Developer+%26+3D+Enthusiast;Java+%26+Kotlin+Lover;Building+scalable+apps;Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25F71E&center=true&vCenter=true&width=435&lines=Java+%26+Kotlin+Lover;Backend+Developer+%26+3D+Creative;Building+scalable+apps;Always+learning+new+tech" alt="Typing SVG" />
   </a>
 </div>
-- 🌱 I’m currently learning **Jetpack Compose from Android Developers**
-- ⚡ Fun fact: **I switched from modeling 3D meshes to modeling Data Structures (and I love both!)**
 
+<br>
+
+<div align="center">
+  🌱 I’m currently learning <strong>Jetpack Compose from Android Developers</strong>
+  <br> <br> ⚡ Fun fact: <strong>I switched from modeling 3D meshes to modeling Data Structures (and I love both!)</strong>
+</div>
 <br>
 
 <h3 align="center">📫 Connect with me:</h3>

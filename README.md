@@ -31,6 +31,9 @@
   <a href="https://www.linkedin.com/in/marcos-hervás-hernández" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.artstation.com/marcoshervas" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
 </p>
 
 <br>
